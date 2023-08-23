@@ -1,0 +1,384 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240112
+SUMMARY:Wintersession begins.  (1/12/2024 - 1/21/2024)
+UID:2587fea3-44a8-408a-8054-14020d5581f9@2587.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Last day upon which March Degree Candidates may submit an approved petition for a secondary field to the Office of the Registrar
+UID:97e00e4c-f8e2-40e5-9153-d6b077207b82@97e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231229
+SUMMARY:All Grades Released
+UID:9c3b7e4a-f98e-43f6-8105-e9e7206a6421@9c3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231211
+SUMMARY:Final Examination Period. (12/11/2023 - 12/20/2023\, Sunday not included)
+UID:d54d1920-845a-40c6-95b9-e485d515edec@d54d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231127
+SUMMARY:Course Evaluation (Q Guide) opens
+UID:175b9236-191f-4611-9e27-7d6f608cbf97@175b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240502
+SUMMARY:Final Examination Period. (5/2/2024 - 5/11/2024\, not including Sunday)
+UID:5031572c-8aed-41a7-b599-76e4ad7ddce4@5031.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230901
+SUMMARY:Open Add/Drop begins\, instructor permission not needed
+UID:edb7fe57-982f-4f23-bc61-e59915378183@edb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240403
+SUMMARY:Course Registration for Fall 2024 begins
+UID:2dc55fd9-4413-4480-9ff1-c18597d1a83c@2dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240401
+SUMMARY:Last day upon which May and next November degree candidates may submit an approved foreign language citation study plan to the Office of the Registrar
+UID:78a999af-dbb7-4622-aefd-5ffe5dc09758@78a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240220
+SUMMARY:Spring Term - 5th Monday -  No course may be changed from letter-graded to Pass/Fail or from Pass/Fail to letter-graded status for the spring term after this date
+UID:230c84b6-3039-4f1f-9a7a-6e48ab0e9f3c@230c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230809
+SUMMARY:Fall Online Check-in opens
+UID:13ba94f4-55c4-48dc-9e82-19f118fb4e5f@13ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231025
+SUMMARY:FAS Crimson Cart opens for Spring Term
+UID:41997f5d-77a0-4bba-8220-de6f54015afa@4199.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240401
+SUMMARY:Final degree applications for May Candidates due
+UID:2ecf85b5-39fe-42c7-a0de-5673b689567f@2ecf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240417
+SUMMARY:Course Registration for Fall 2024 Deadline
+UID:f12e2e26-af03-44f6-a504-20b349274052@f12e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231222
+SUMMARY:Early Grade Release
+UID:7bf782e9-20b5-4cb4-b45e-ce79174f8b1c@7bf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240425
+SUMMARY:Reading Period. (4/25/2024 - 5/1/2024)
+UID:d30dcf60-f3c4-4719-96ab-759433b1916c@d30d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240513
+SUMMARY:Early Grade Release
+UID:97206b05-d3b3-4d37-b945-71e7aa379a83@9720.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240309
+SUMMARY:Spring Recess begins. (3/9/2024 - 3/17/2024)
+UID:d7526e4e-b4f8-4ad7-8d43-056ac969559c@d752.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230818
+SUMMARY:FAS Crimson Cart opens
+UID:7731369c-87ab-4281-8f1b-70a973d4c505@7731.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Last day upon which March Degree Candidates may submit an approved foreign language citation study plan to the Office of the Registrar
+UID:f36200e1-3b8a-4971-8dac-9deefa991601@f362.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240115
+SUMMARY:University Holiday: Martin Luther King Day
+UID:9842f25a-9b8f-46b7-a166-9811aa92642e@9842.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240704
+SUMMARY:University Holiday: Independence Day
+UID:bcbfd3ea-aeac-4f5a-94c8-7831ebdedc13@bcbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231115
+SUMMARY:Spring term - Enrollments forminimum course load due
+UID:38608ac9-a207-477d-b1a0-4569419761d9@3860.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231122
+SUMMARY:Thanksgiving recess. (Nov. 22 - 26)
+UID:6fd015fb-901d-4723-934f-310917dd1c1e@6fd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230905
+SUMMARY:Fall Term begins. Classes start
+UID:661e4b90-6f2e-4e63-b7b6-5d7719b4f6d3@661e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240523
+SUMMARY:Commencement
+UID:0bd0facf-4a85-42f5-85a2-abf493e7409e@0bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231114
+SUMMARY:Conferral of November Degrees
+UID:00186f2a-af96-4aae-9aa6-3cb746d8b110@0018.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231115
+SUMMARY:Course Registration for Spring 2024 Deadline
+UID:881078be-215f-4c29-bbd4-1b9a464fa4dc@8810.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+SUMMARY:Course Registration for Spring 2024 Begins
+UID:8c000375-67a2-4e2c-b379-99658e1e7069@8c00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240122
+SUMMARY:Spring Online Check-in Deadline
+UID:30940f1f-8a0a-4010-9f68-a7a68067eb24@3094.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240325
+SUMMARY:Spring Session 2 - Add/Drop Deadline - no fees
+UID:325dc821-3084-460c-b8de-3ddf9b6b80ea@325d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240401
+SUMMARY:Last day upon which May and next November Degree Candidates may submit an approved petition for a secondary field to the Office of the Registrar
+UID:62c58148-ded1-4b5b-925a-3548bfab7f47@62c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230831
+SUMMARY:Fall Term - Enrollments for minimum course load due
+UID:52d7e027-2736-412b-a724-8d619aa73dc6@52d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231222
+SUMMARY:Course Evaluation (Q Guide) Closes
+UID:8113798a-368f-4faf-8630-9cda1f63db27@8113.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240306
+SUMMARY:May Degree Application Opens
+UID:ef113f4c-ce99-4904-8a02-707335545901@ef11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240424
+SUMMARY:Last Day of Spring Term Classes
+UID:4781a188-423a-4644-978a-2fc52956c452@4781.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240305
+SUMMARY:Conferral of March Degrees
+UID:64482361-7b51-4fba-8d8f-03e009c9a3b9@6448.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230821
+SUMMARY:Fall Online Check-in deadline
+UID:255e93ae-3ebf-454a-9a55-b70a9bf087a5@255e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240122
+SUMMARY:Open Add/Drop begins\, instructor permission not needed to enroll in courses
+UID:da02af0d-8417-4ea3-98e9-53d1299af081@da02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240401
+SUMMARY:Last day to change concentration without Administrative Board approval for May and next November degree Candidates
+UID:0dd662be-ff39-4b70-96fb-15985b35ee48@0dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Last day to change concentration for March Degree Candidates without Administrative Board approval
+UID:eb18bf7f-7490-4b49-96dd-035b7ad637b8@eb18.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240401
+SUMMARY:11th Monday - Spring Term - Last day upon which students may withdraw from a spring term course
+UID:14302e0e-342c-4422-a543-acb4f6602a6f@1430.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231009
+SUMMARY:University Holiday: Columbus Day (Federal)\, Indigenous Peoples' Day (City of Cambridge). 
+UID:d0658ab2-dc29-4e75-bed1-aa1ea4f3fd4e@d065.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Final degree applications for March Candidates due
+UID:dda80745-5d8c-43af-8181-83d40fe0b203@dda8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240219
+SUMMARY:University Holiday: Presidents’ Day
+UID:97b51608-4130-497b-a13a-9505173882d1@97b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231120
+SUMMARY:11th Monday - Fall Term - Last day upon which students may withdraw from a fall term course. 
+UID:09de8252-f3b0-4e87-a7bd-3ea0632e6907@09de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240520
+SUMMARY:All Grades Released
+UID:1910561b-3785-432d-9f8b-9b4444053a46@1910.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230904
+SUMMARY:University Holiday: Labor Day. 
+UID:f2efd450-a9c9-43fd-808a-099bd0b3fdf9@f2ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240205
+SUMMARY:3rd Monday - Spring Term - Last day upon which undergraduates may drop or add any course without a fee
+UID:100b7e03-6134-433e-aaa6-db87f7d4fb9c@100b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230926
+SUMMARY:3rd Monday - Fall Term - Last day undergraduates may drop or add any course without a fee. 
+UID:c430fae3-cdb1-4e8f-9ab1-8eba3066b18c@c430.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240425
+SUMMARY:Last day that undergraduates will ordinarily be granted a leave of absence from the College
+UID:835a420e-902e-484e-b9d4-d60c89795e8c@835a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230831
+SUMMARY:Fall Term - Course Registration deadline
+UID:afb4b6e1-68d3-419f-ae70-11b435833ee4@afb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240513
+SUMMARY:Course Evaluation (Q Guide) Closes
+UID:c6735849-0cbb-4459-b9fb-d0e97158a7fb@c673.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231110
+SUMMARY:University Holiday: Veterans’ Day (observed for staff). Classes held
+UID:96d3c75a-51aa-4ac3-a9e7-39d7b63aa3a8@96d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240220
+SUMMARY:Spring Term - 5th Monday - Deadline to add or drop a course.  
+UID:ef930486-234b-48ac-846a-f03b0e60b191@ef93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231205
+SUMMARY:Last day of Fall Term classes
+UID:6b840755-4bef-4316-84df-1c3f58baf54d@6b84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240619
+SUMMARY:University Holiday: Juneteenth
+UID:fdf57dbd-dc3e-4604-8f77-a498bf2e057b@fdf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+SUMMARY:Deadline to Pay Fall Tuition and Fees
+UID:259d84c1-236b-44f0-96a8-ba04f963c33a@259d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+SUMMARY:Reading Period. (12/6/2023 - 12/10/2023)
+UID:8638cc72-10e6-4f00-a63b-5969119ffd87@8638.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230801
+SUMMARY:Final degree applications for November degree candidates due
+UID:ad89154e-3a51-4df9-9904-edf7153413af@ad89.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231221
+SUMMARY:Winter Recess Begins. (12/21/2023 - 1/21/2024)
+UID:59781eab-c7cf-4b07-a386-58b971bc6799@5978.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240108
+SUMMARY:Spring Online Check-In opens
+UID:24b61d72-42ea-4548-b677-d3b42938ce56@24b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240327
+SUMMARY:Declaration of Concentration due for third semester students
+UID:58a34228-71c4-4dae-90a9-be5e9fa1e4ee@58a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240416
+SUMMARY:Course Evaluation (Q Guide) opens
+UID:656c3add-df43-4302-9af9-74c2fc74bd7c@656c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230912
+SUMMARY:Fall Term - Open Add/Drop Deadline -  Instructor permission needed after this date
+UID:687b1ee2-63cf-43f2-8398-b4a1e1d39b0c@687b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231025
+SUMMARY:Declaration of Concentration Due for third semester students
+UID:b4dd2ad3-d29a-4c71-a0b8-a79518a9561a@b4dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230829
+SUMMARY:Make-up examinations for last spring term
+UID:93908de9-dc8d-4798-b5a2-e2baaeaa8625@9390.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240117
+SUMMARY:Make-up Examinations for Fall Term
+UID:8c9f29ae-68bd-4923-9ce1-ad2d1c913a0b@8c9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240129
+SUMMARY:Open Add/Drop deadline - After this date students must obtain permission from all instructors to enroll in courses
+UID:99a7fe1c-00b1-43eb-a1d7-854cd020dc3d@99a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231106
+SUMMARY:Fall Session 2 - Add/Drop Deadline - no fees
+UID:a7ae4c1d-1c68-4b96-b743-511c664097b5@a7ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231010
+SUMMARY:5th Monday - Fall Term - Course Add/ Drop deadline
+UID:5183c179-ee26-42a9-a3c6-799de951f6bf@5183.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240527
+SUMMARY:University Holiday: Memorial Day
+UID:050499f5-7c15-4398-aea0-f1fa0995ae2d@0504.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+SUMMARY:Last day in the fall term upon which undergraduates will ordinarily be granted a leave of absence from the College
+UID:fe86b312-a8ed-45e8-889b-dff93bcff580@fe86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230821
+SUMMARY:FAS Course Registration begins (enroll in courses)
+UID:945c9784-797e-4016-a4d1-89d5a0095af1@945c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231010
+SUMMARY:5th Monday - Fall Term - No course may be changed from letter-graded to Pass/Fail or from Pass/Fail to letter-graded status after this date. 
+UID:d7fa67f6-443a-4a11-a976-3fc94780b58c@d7fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240122
+SUMMARY:Spring term begins. First meeting of spring term classes
+UID:6f307285-9582-456e-aa21-3d02c12e0acf@6f30.org
+END:VEVENT
+END:VCALENDAR
